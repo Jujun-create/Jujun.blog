@@ -1,5 +1,6 @@
 #about {
   background-color: #273036;
+  overflow: hidden;
 }
 #about h2 {
   border-bottom: 2px solid white;
@@ -8,6 +9,9 @@
   margin-bottom: 1.5rem;
   font-family: Tahoma, Geneva, Verdana, sans-serif;
   padding-bottom: 2px;
+}
+#projects {
+  overflow: hidden;
 }
 #projects h1 {
   border-bottom: 2px solid rgb(1, 0, 0);
@@ -19,6 +23,7 @@
 }
 #home {
   margin-top: 80px;
+  overflow: hidden;
 }
 #contact {
   background-color: #273036;
